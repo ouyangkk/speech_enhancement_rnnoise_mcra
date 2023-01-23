@@ -1,0 +1,4 @@
+/home/ouyangkang/denoise_project1/build/CMakeFiles/edit_cache.dir
+/home/ouyangkang/denoise_project1/build/CMakeFiles/DENOISE.dir
+/home/ouyangkang/denoise_project1/build/CMakeFiles/rebuild_cache.dir
+/home/ouyangkang/denoise_project1/build/CMakeFiles/denoise.dir

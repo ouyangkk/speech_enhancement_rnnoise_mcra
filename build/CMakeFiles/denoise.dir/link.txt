@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/DENOISE.dir/main.c.o  -o DENOISE   -L/home/ouyangkang/denoise_project1/../build  -Wl,-rpath,/home/ouyangkang/denoise_project1/../build:/home/ouyangkang/denoise_project1/build libdenoise.so -lm 

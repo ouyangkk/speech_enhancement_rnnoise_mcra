@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "lpc_pitch.h": "c",
+        "denoise_function.h": "c"
+    }
+}
